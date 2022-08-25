@@ -1,0 +1,12 @@
+.navbar ul {
+  display: flex;
+  justify-content: space-around;
+  padding: 2rem;
+  background-color: slategrey;
+}
+li {
+  background-color: rgb(91, 62, 129);
+  padding: 1rem 2rem;
+  border-radius: 5px;
+  box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.199);
+}
